@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 { 
    "name": "pg6",
    "theme": "syntax",
@@ -17,3 +18,22 @@
  }
           
         
+=======
+{
+  "name": "pg6",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Power100th allslot wallet",
+  "keywords": [
+    "pgslot",
+    "เว็บตรง",
+    "pg",
+    "สล็อต"
+  ],
+  "repository": "https://github.com/blanktrader1985/pg5.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
+>>>>>>> master
